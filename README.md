@@ -1,0 +1,1 @@
+This is a trimmed version of [kevink1103/pyprnt](https://github.com/kevink1103/pyprnt) for my own purpose. All credit goes to the original author.
